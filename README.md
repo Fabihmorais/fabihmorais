@@ -1,7 +1,7 @@
 Olá, eu sou a Fabi 🤗 
 - Sou engenheira química e atualmente participando do processo CWI Reset ✨
 
-<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif](https://giphy.com/stickers/disneystudios-pixar-movie-lightyear-V5bKTyV5kt3snXvVVj/fullscreen)">
+<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif](https://giphy.com/stickers/disneystudios-pixar-movie-lightyear-V5bKTyV5kt3snXvVVj/fullscreen)](https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif)">
 
 
 <div>
