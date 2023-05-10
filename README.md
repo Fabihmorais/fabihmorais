@@ -1,5 +1,5 @@
 Olá, eu sou a Fabi 🤗 
-- Sou engenheira química e atualmente participando do processo CWI Reset ✨
+- Testadora na CWI Software ✨
 
 <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif">
 
